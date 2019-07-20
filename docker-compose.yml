@@ -21,7 +21,7 @@ services:
     TEXT1: CloudYuga 
     TEXT2: Garage RSVP!
     LOGO: https://raw.githubusercontent.com/cloudyuga/rsvpapp/master/static/cloudyuga.png
-    COMPANY: CloudYuga Technology Pvt. Ltd.
+    COMPANY: CloudYuga Technology1 Pvt. Ltd.
    networks:
     - rsvpnet
 
